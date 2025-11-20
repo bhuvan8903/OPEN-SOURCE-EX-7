@@ -1,6 +1,6 @@
 # OPEN-SOURCE-EX-7
-## NAME : MANOJ G
-## REG NO : 212222240060
+## NAME : Bhuvaneshwaran H
+## REG NO : 212223240018
 
 # STEPS TO DO :
 ### STEP 1 : sudo pvcreate /dev/sdb
